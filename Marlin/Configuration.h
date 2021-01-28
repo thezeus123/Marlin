@@ -1008,7 +1008,7 @@
  * A total of 3 or more adds more slow probes, taking the average.
  */
 #define MULTIPLE_PROBING 2 //Customized DBP
-#define EXTRA_PROBING    1 //Customized DBP
+// #define EXTRA_PROBING    1 //Customized DBP
 
 /**
  * Z probes require clearance when deploying, stowing, and moving between
